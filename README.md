@@ -1,14 +1,14 @@
-<p align="center">
-	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />
+winlator<p align="center">
+	<img src="logo.png" width="90" height="100" alt="Winlator Logo" />
 </p>
 
 # Winlator
 
-Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
+Winlator is an Android application that lets you to run Windows (x89_64) applications with Wine and Box89/Box64.
 
 # Installation
 
-1. Download and install the APK (Winlator_11.1.apk) from [GitHub Releases](https://github.com/brunodev85/winlator/releases)
+1. Download and install the APK (Winlator_5.1.apk) from [GitHub Releases](https://github.com/brunodev85/winlator/releases)
 2. Launch the app and wait for the installation process to finish
 
 ----
